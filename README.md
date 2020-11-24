@@ -21,7 +21,7 @@ Uma pagina simulando o gerenciamento de alunos e instrutores de uma academia, po
 # Screenshots MEMBERS
 
 - Pagina Membros
-![Alt text](https://i.ibb.co/B2Mr1Nk/Captura-de-Tela-8.png "Membro Inicial") ![Alt text](https://i.ibb.co/72CfDmn/Captura-de-Tela-9.png "Perfil Membro")
+![Alt text](https://i.ibb.co/B2Mr1Nk/Captura-de-Tela-8.png "Membro Inicial")
 - Perfil Membro
 ![Alt text](https://i.ibb.co/72CfDmn/Captura-de-Tela-9.png "Perfil Membro")
 - Editando Membro
