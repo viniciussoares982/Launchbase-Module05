@@ -1,4 +1,8 @@
 # MODULE 05
+### Tecnologias
+- NodeJS
+- ExpressJS (Framework)
+- Nunjucks (Template Engine)
 
 # Controle de Academia
 
