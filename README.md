@@ -4,7 +4,7 @@
 
 Uma pagina simulando o gerenciamento de alunos e instrutores de uma academia, podendo adcionar Alunos e Instrutores, colocando seus dados, e ate mesmo uma imagem, sendo possivel depois alterar e excluir os dados e ainda tendo uma relação dos dados entre eles, o Banco de Dados foi feito usando PostegreSQL.
 
-# Screenshots
+# Screenshots INSTRUCTORS
 - Pagina Instrutores
 ![Alt text](https://i.ibb.co/yW9xQqp/Captura-de-Tela-2.png "Instrutor Inicial")
 - Paginação
@@ -13,12 +13,19 @@ Uma pagina simulando o gerenciamento de alunos e instrutores de uma academia, po
 ![Alt text](https://i.ibb.co/DMCVSPX/Captura-de-Tela-4.png "Instrutor Filtro")
 - Criando Instrutor
 ![Alt text](https://i.ibb.co/KjBWQxC/Captura-de-Tela-5.png "Instrutor Criação")
-- Pagina do Instrutor
-![Alt text](https://i.ibb.co/02zphxc/Captura-de-Tela-6.png "Instrutor Pagina")
+- Perfil do Instrutor
+![Alt text](https://i.ibb.co/02zphxc/Captura-de-Tela-6.png "Instrutor Perfil")
 - Editando Instrutor
 ![Alt text](https://i.ibb.co/ZT0N70C/Captura-de-Tela-7.png "Instrutor Edição")
 
+# Screenshots MEMBERS
 
+- Pagina Membros
+![Alt text](https://i.ibb.co/B2Mr1Nk/Captura-de-Tela-8.png "Membro Inicial") ![Alt text](https://i.ibb.co/72CfDmn/Captura-de-Tela-9.png "Perfil Membro")
+- Perfil Membro
+![Alt text](https://i.ibb.co/72CfDmn/Captura-de-Tela-9.png "Perfil Membro")
+- Editando Membro
+![Alt text](https://i.ibb.co/yk7pS7Y/Captura-de-Tela-10.png "Editando Membro")
 
 
 # Sobre mim
