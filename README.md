@@ -6,7 +6,7 @@
 
 # Controle de Academia
 
-Uma pagina simulando o gerenciamento de alunos e instrutores de uma academia, podendo adcionar Alunos e Instrutores, colocando seus dados, e ate mesmo uma imagem, sendo possivel depois alterar e excluir os dados e ainda tendo uma relação dos dados entre eles, o Banco de Dados foi feito usando PostegreSQL.
+Uma pagina simulando o gerenciamento de alunos e instrutores de uma academia, podendo adcionar Alunos e Instrutores, colocando seus dados, e ate mesmo uma imagem, sendo possivel depois alterar e excluir os dados e ainda tendo uma relação dos dados entre eles, o Banco de Dados foi feito utilizando PostegreSQL.
 
 # Screenshots INSTRUCTORS
 - Pagina Instrutores
