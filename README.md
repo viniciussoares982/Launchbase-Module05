@@ -27,6 +27,8 @@ Uma pagina simulando o gerenciamento de alunos e instrutores de uma academia, po
 - Editando Membro
 ![Alt text](https://i.ibb.co/yk7pS7Y/Captura-de-Tela-10.png "Editando Membro")
 
+- Interação DB Instrutores com Membros
+![Alt text](https://i.ibb.co/vw2PqLZ/Captura-de-Tela-12.png "DB Membro")
 
 # Sobre mim
 Esse curso foi o meu primeiro contato direto e verdadeiro com o mundo da programação, já a algum tempo atrás tive minha primeira experiência com algumas video aulas no Youtube sobre linguagens de programação como C++ e Python, mas esse conhecimento nunca foi aprofundado. Sendo então esse curso minhas primeiras linhas de codigos e horas de estudos sobre esse tema no qual gostaria de me aprofundar estudando e desenvolvendo.
