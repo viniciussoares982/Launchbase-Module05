@@ -5,12 +5,17 @@
 Uma pagina simulando o gerenciamento de alunos e instrutores de uma academia, podendo adcionar Alunos e Instrutores, colocando seus dados, e ate mesmo uma imagem, sendo possivel depois alterar e excluir os dados e ainda tendo uma relação dos dados entre eles, o Banco de Dados foi feito usando PostegreSQL.
 
 # Screenshots
-Pagina Instrutores
+- Pagina Instrutores
 ![Alt text](https://i.ibb.co/yW9xQqp/Captura-de-Tela-2.png "Instrutor Inicial")
+- Paginação
 ![Alt text](https://i.ibb.co/RHFPb7K/Captura-de-Tela-3.png "Instrutor Paginação")
+- Busca por Filtro
 ![Alt text](https://i.ibb.co/DMCVSPX/Captura-de-Tela-4.png "Instrutor Filtro")
+- Criando Instrutor
 ![Alt text](https://i.ibb.co/KjBWQxC/Captura-de-Tela-5.png "Instrutor Criação")
+- Pagina do Instrutor
 ![Alt text](https://i.ibb.co/02zphxc/Captura-de-Tela-6.png "Instrutor Pagina")
+- Editando Instrutor
 ![Alt text](https://i.ibb.co/ZT0N70C/Captura-de-Tela-7.png "Instrutor Edição")
 
 
